@@ -17,7 +17,7 @@ depends=(
     docker
     docker-compose
     yandex-cloud-bin
-	aws-cli-git
+    aws-cli-git
     vault
     vagrant
 )
